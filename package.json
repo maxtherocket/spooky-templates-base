@@ -1,0 +1,20 @@
+{
+  "name": "spooky-templates-base",
+  "version": "0.0.0",
+  "description": "A base for spooky's templates",
+  "main": "index.js",
+  "author": "Max Rusan <max@maxtherocket.com> (http://maxtherocket.com/)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxtherocket/spooky-templates-base.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxtherocket/spooky-templates-base/issues"
+  },
+  "homepage": "https://github.com/maxtherocket/spooky-templates-base"
+}
